@@ -5,4 +5,5 @@ void main(void)
     printf("hi git hub");
     // what the hell
     printf("sec printf %d",a);
+    printf("pull?? %d",a+10);
 }
