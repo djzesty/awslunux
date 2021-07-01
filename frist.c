@@ -7,4 +7,6 @@ void main(void)
     printf("sec printf %d",a);
     printf("pull?? %d",a+10);
     /* ghghghgh*/
+    /*[teset2*/
+    printf("test3");
 }
